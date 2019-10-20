@@ -1,0 +1,3 @@
+- Input images have to be 300 dpi
+- Uses local features - subimages of lip patterns are generated and compared with images from database using Fast Normalized Cross Correlation (FNCC)
+- FNCC with subimages better than FNCC without subimages, Rank 1 identification rate increased from 45% to 58%
