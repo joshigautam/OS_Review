@@ -1,0 +1,3 @@
+- PNN + PSO
+- Input vector is computed as - 1) Find ROI 2) Find landmarks in ROI 3) Compute Euclidean distance measures amongst landmarks 4) Compute Sim coefficients from landmarks
+- Global features used
