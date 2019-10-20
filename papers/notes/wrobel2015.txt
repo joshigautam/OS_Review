@@ -1,1 +1,2 @@
-- Works with images of the face, isolates lip from rest of face
+in - Works with images of the face, isolates lip from rest of face
+This is a bit robust to light change but have some issues like the difference of brightness which comes in darker area will be  a lot more than in that of bright area
