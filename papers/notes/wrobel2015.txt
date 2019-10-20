@@ -1,0 +1,1 @@
+- Works with images of the face, isolates lip from rest of face
