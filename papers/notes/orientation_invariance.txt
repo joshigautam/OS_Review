@@ -1,0 +1,3 @@
+orientation invariance while desirable can be achieved in a model that doesn't have it by further pre-processing. 
+however the effect of such pre-processing on accuracy would be inconclusive
+
