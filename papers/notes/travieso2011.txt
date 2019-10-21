@@ -1,2 +1,4 @@
-SVM trained on geometrical features (global features) + SVM trained on local features (found using Discriminative common vector [DCV] and Discrete Wavelet Feature Transform [DWT])
+﻿Bimodal face + lip verification
+SVM trained on geometrical features (global features of lip) + SVM trained on local features of face(found using Discriminative common vector [DCV] and Discrete Wavelet Feature Transform [DWT])
 The use of two SVMs means the classification process is probably quiet slow
+
