@@ -1,0 +1,21 @@
+﻿- Brief description of feature extraction technique proposed in paper
+
+
+
+
+- Scale invariance of technique “Consistency of performance of models trained on extracted features over scale variation”
+
+
+- Orientation invariance “Consistency of performance of models trained on extracted features over orientation invariance”
+
+
+- Lighting robustness 
+	“Consistency of performance of models trained on extracted features over lighting variation”
+
+
+- Temporal permanence 
+	“Consistency of performance of models trained on extracted features over time”
+
+
+- Use of local/global features 
+	“Specify whether local or global features are used. Both used is preferred”
